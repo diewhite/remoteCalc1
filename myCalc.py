@@ -1,5 +1,5 @@
-from add import add_func
-from mul import mul_func
+from add_func import add_func
+from mul_func import mul_func
 ##함수 선언부
 
 
